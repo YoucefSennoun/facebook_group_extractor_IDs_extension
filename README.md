@@ -1,6 +1,4 @@
-Facebook Group ID Extractor Chrome Extension
-This Chrome Extension allows you to search for Facebook groups by keyword and extract their unique IDs, names, and links.
-
+Facebook Group ID Extractor Chrome Extension This Chrome Extension allows you to search for Facebook groups by keyword and extract their unique IDs, names, and links.
 
 Load the Extension in Chrome:
 
@@ -10,7 +8,7 @@ Enable "Developer mode" by togging the switch in the top right corner.
 
 Click on "Load unpacked" button.
 
-Navigate to and select the facebook_group_extractor folder you created.
+Navigate to and select the facebook\_group\_extractor folder you created.
 
 The extension should now appear in your list of extensions.
 
@@ -20,8 +18,7 @@ Click on the puzzle piece icon (Extensions) in your Chrome toolbar.
 
 Find "Facebook Group ID Extractor" and click the pin icon next to it to make it visible in your toolbar.
 
-How to Use
-Log in to Facebook: Ensure you are logged into your Facebook account in your Chrome browser. The extension will operate within your logged-in session.
+How to Use Log in to Facebook: Ensure you are logged into your Facebook account in your Chrome browser. The extension will operate within your logged-in session.
 
 Open the Extension: Click on the "Facebook Group ID Extractor" icon in your Chrome toolbar.
 
@@ -33,8 +30,7 @@ View Results: The extension will navigate your active tab to Facebook's search r
 
 Export Results (Optional): Click the "Export Results" button to download the displayed data as a CSV file.
 
-Caveats and Limitations
-Facebook's Terms of Service: Directly scraping Facebook content is against their Terms of Service and may lead to your IP being blocked or your account being suspended. Use this tool responsibly and ethically.
+Caveats and Limitations Facebook's Terms of Service: Directly scraping Facebook content is against their Terms of Service and may lead to your IP being blocked or your account being suspended. Use this tool responsibly and ethically.
 
 UI Changes: Facebook frequently updates its user interface and HTML structure. This extension relies on specific CSS selectors to find group information. If Facebook changes its layout, the extension might stop working until the selectors are updated.
 

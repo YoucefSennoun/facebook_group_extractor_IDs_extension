@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/4bd8f2e4-ad39-426c-8d8b-9a745c8b18f9)
+
+
 **Facebook Group ID Extractor Chrome Extension** 
 
 This Chrome Extension allows you to search for Facebook groups by keyword and extract their unique IDs, names, and links.
